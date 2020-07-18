@@ -1,7 +1,6 @@
 # Forex
 
 
----
 
 
 ## What is it?
