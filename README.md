@@ -28,13 +28,14 @@
 |AUD | Australia | Dollar	| Aussie
 |NZD | New Zealand | Dollar	| Kiwi
 
-- Currency symboles always have thress letters
+- Currency symboles always have three letters
 - first two identify country, last identify currency
 
 ## Buying and selling
-- Forex trading is the simultaneous buying of one currency and selling another
+- Forex trading is the simultaneous buying of one currency and selling of another
 
 ### Currency pairs
+- a pairing of currencies where the value of one is relative to the other e.g. GBP/USD
 - When you trade in the forex market, you buy or sell in currency pairs.
 - three categories of currency pairs, “majors“, “crosses“ and “exotics“
 - major currency pairs always include USD
@@ -44,5 +45,16 @@
 
 ### Exotic pairs
 - exotic pairs aren’t as heavily traded as the “majors” or “crosses,” so the transaction costs associated with trading these pairs are usually bigger.
-- Due to the overall lower degree of liquidity, exotic currency pairs tend to be far more sensitive to economic and geopolitical events.
-- For example, a political scandal or unexpected election results can cause an exotic pair’s exchange rate to swing violently.
+- due to the overall lower degree of liquidity, exotic currency pairs tend to be far more sensitive to economic and geopolitical events.
+- for example, a political scandal or unexpected election results can cause an exotic pair’s exchange rate to swing violently.
+
+
+### G10 currencies
+- 10 of the most traded currencies
+- 10 most liquid currencies
+- traded regularly with min impact on  their own international exchange rates
+- `USD, EUR, GBP, AUD, NZD, CAD, CHF, NOK, SEK, DKK`
+
+
+## References
+  https://www.babypips.com
